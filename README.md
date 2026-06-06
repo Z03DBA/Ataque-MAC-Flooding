@@ -1,5 +1,5 @@
 
-# 🛡️ Layer 2 Security Audit: MAC Flooding (CAM Table Exhaustion)
+# 🛡️ Security Audit: MAC Flooding (CAM Table Exhaustion)
 
 ---
 
